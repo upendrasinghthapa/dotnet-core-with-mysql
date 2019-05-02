@@ -1,0 +1,14 @@
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.csprojAssemblyReference.cache
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.csproj.CoreCompileInputs.cache
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.RazorAssemblyInfo.cache
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.RazorAssemblyInfo.cs
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.AssemblyInfoInputs.cache
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.AssemblyInfo.cs
+D:\dotnetcore\CoreApi\AspNetAngularAuth\bin\Debug\netcoreapp2.2\AspNetAngularAuth.deps.json
+D:\dotnetcore\CoreApi\AspNetAngularAuth\bin\Debug\netcoreapp2.2\AspNetAngularAuth.runtimeconfig.json
+D:\dotnetcore\CoreApi\AspNetAngularAuth\bin\Debug\netcoreapp2.2\AspNetAngularAuth.runtimeconfig.dev.json
+D:\dotnetcore\CoreApi\AspNetAngularAuth\bin\Debug\netcoreapp2.2\AspNetAngularAuth.dll
+D:\dotnetcore\CoreApi\AspNetAngularAuth\bin\Debug\netcoreapp2.2\AspNetAngularAuth.pdb
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.RazorTargetAssemblyInfo.cache
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.dll
+D:\dotnetcore\CoreApi\AspNetAngularAuth\obj\Debug\netcoreapp2.2\AspNetAngularAuth.pdb
